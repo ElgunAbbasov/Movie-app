@@ -2,7 +2,7 @@
 
 
 const NewFilms=()=>{
-    return <h1>I am news page</h1>
+    return <h1>I am new films page</h1>
 }
 
 export default NewFilms;

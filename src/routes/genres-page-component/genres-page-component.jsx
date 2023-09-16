@@ -12,13 +12,13 @@ const  Genres=()=>{
     },
     {
         id:2,
-        title:'Animtion',
+        title:'Animation',
         imageUrl:'https://thecinemaholic.com/wp-content/uploads/2015/02/_d_improd_/wall_e-wide_f_improf_1024x640.jpg',
         p:'Animation is the method and medium that encompasses myriad filmmaking techniques, by which still images are manipulated to create moving images. '
     },
     {
         id:3,
-        title:'Fantasty',
+        title:'Fantasy',
         imageUrl:'https://cdn.mos.cms.futurecdn.net/VBTsDswJ3MPxTyZ43ZNXkJ.jpg',
         p:'Fantasy films are films that belong to the fantasy genre with fantastic themes, usually magic, supernatural events, mythology, folklore, or exotic fantasy worlds.'
     },

@@ -9,7 +9,7 @@ const CategoryItem2=({category})=>{
             backgroundImage:`url(${imageUrl})`
         }}/>
             <div className="category-body-container">
-                <h2 className="h2">{title}</h2>
+                <h2 className="h2"><a href={title}> {title}</a></h2>
                 <p className="p">{p}</p>
             </div>
         </div>
